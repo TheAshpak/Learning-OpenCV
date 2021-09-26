@@ -35,5 +35,5 @@ Here in **OpenCv_Modules** i have uploaded 9 chapters as follows.
 6) stacking images vertically and Horizontally
 7) Trackbar- for color detection
 8) Edge detection and edge Highlight
-9) Face detection with *"HarCascadeClassifier"* pre trained model ```
-
+9) Face detection with *"HarCascadeClassifier"* pre trained model 
+```
