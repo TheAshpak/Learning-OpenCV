@@ -26,3 +26,26 @@ Here in **OpenCv_Modules** i have uploaded 9 chapters as follows.
 8) Edge detection and edge Highlight
 9) Face detection with *"HarCascadeClassifier"* pre trained model 
 ```
+## Simple Project of detecting pedestrian with Pretrained HaarCascades Model for Body detection
+
+![pedestrian detection with haarcascades](https://github.com/TheAshpak/Learning-OpenCV/blob/main/Output_img.png)
+
+```
+* Using OpenCV to read video frame by fame
+* converting coloured images to Gray Scale image and passing it to haarcascades human body classifier
+* Model returns four co-ordinates ,using those co-ordinates to plot bonding box around human body
+```
+### Advantages
+```
+* Haarcascades models are fast
+* Requires low computation power
+```
+### Limitations
+```
+It is hard for haarcascades models to detect multiple objects simultaneously 
+```
+### Applications
+```
+* Real life human detection an traffic signals to avoid accidents
+* Security cameras to detect human presence
+```
