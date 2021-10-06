@@ -26,7 +26,7 @@ Here in **OpenCv_Modules** i have uploaded 9 chapters as follows.
 8) Edge detection and edge Highlight
 9) Face detection with *"HarCascadeClassifier"* pre trained model 
 ```
-## Simple Project of detecting pedestrian with Pretrained HaarCascades Model for Body Classifier
+## Detecting Pedestrian with Pre-trained HaarCascades Model for Full Body Detection
 
 ![pedestrian detection with haarcascades](https://github.com/TheAshpak/Learning-OpenCV/blob/main/Output_img.png)
 
