@@ -1,6 +1,6 @@
 # OpenCV Learnings
 
-In this repository i will be sharing my learning with OpenCV library for object detections. 
+In this repository i have shared my learning with OpenCV library for object detections. 
 
 Code was prepared on following versions of libraries
 ```bash
